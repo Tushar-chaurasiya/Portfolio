@@ -2,7 +2,7 @@ It's My Personal Portfolio🫰..
 
 Welcome to my Personal Portfolio!🧑‍🦱 This project showcases my skills, projects, and experience as a Web Developer, Designer, and Data Analyst. It is designed to be visually appealing, responsive, and easy to navigate.
 
-* Features ->
+* Features⚙️ ->
   
 -> Responsive Design:- The portfolio is fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
 
@@ -20,15 +20,22 @@ Welcome to my Personal Portfolio!🧑‍🦱 This project showcases my skills, p
 
 -> Contact Form:- A simple contact form for visitors to get in touch.
 
-* Technologies Used->
+* Technologies Used💻 ->
+  
  -> HTML5
+ 
  -> CSS3
+ 
  -> JavaScript
+ 
  -> Typed.js for text animations
+ 
  -> ScrollReveal.js for scroll animations
+ 
  -> jQuery for smooth scrolling
   
-* Sections->
+* Sections📌 ->
+  
 -> Home:-
 This section introduces who I am with an animated text effect that cycles through my roles.
 
