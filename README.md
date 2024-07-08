@@ -54,3 +54,7 @@ Showcases selected projects with hover effects that reveal more details about ea
 
 -> Contact:-
 Includes a contact form for visitors to send me messages directly.
+
+* Contributing🤝 ->
+  
+If you have suggestions or improvements, feel free to fork the repository and submit a pull request. Contributions are always welcome!🤗🤩
