@@ -1,8 +1,9 @@
 It's My Personal Portfolio🫰..
 
-Welcome to my Personal Portfolio!🧑‍🦱 This project showcases my skills, projects, and experience as a Web Developer, Designer, and Data Analyst. It is designed to be visually appealing, responsive, and easy to navigate.
+Welcome to my Personal Portfolio-Website!🧑‍🦱 This project showcases my skills, projects, and experience as a Web Developer, Designer, and Data Analyst. It is designed to be visually appealing, responsive, and easy to navigate.
 
-* Features⚙️ ->
+
+** Features⚙️ ->
   
 -> Responsive Design:- The portfolio is fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
 
@@ -21,7 +22,7 @@ Welcome to my Personal Portfolio!🧑‍🦱 This project showcases my skills, p
 -> Contact Form:- A simple contact form for visitors to get in touch.
 
 
-* Technologies Used💻 ->
+** Technologies Used💻 ->
   
  -> HTML5
  
@@ -34,8 +35,9 @@ Welcome to my Personal Portfolio!🧑‍🦱 This project showcases my skills, p
  -> ScrollReveal.js for scroll animations
  
  -> jQuery for smooth scrolling
+ 
   
-* Sections📌 ->
+** Sections📌 ->
   
 -> Home:-
 This section introduces who I am with an animated text effect that cycles through my roles.
@@ -55,6 +57,29 @@ Showcases selected projects with hover effects that reveal more details about ea
 -> Contact:-
 Includes a contact form for visitors to send me messages directly.
 
-* Contributing🤝 ->
+
+** Setup🔧 ->
+  
+->To run this project locally, follow these steps:
+
+1. Clone the repository:
+   git clone https://github.com/tushar-chaurasiya/Portfolio-Website.git
+
+2. Navigate to the project directory:
+   cd Portfolio-Website
+
+3. Open index.html in your browser to view the website.
+
+
+** Usage💻 ->
+  
+You can view the live website at https://tushar-chaurasiya.github.io/Portfolio-Website/.
+
+
+** Contributing🤝 ->
   
 If you have suggestions or improvements, feel free to fork the repository and submit a pull request. Contributions are always welcome!🤗🤩
+
+-> Email: tusharchaurasiya7865@gmail.com
+-> LinkedIn: https://www.linkedin.com/in/tushar-chaurasiya-6829b2294/
+-> GitHub: https://github.com/
